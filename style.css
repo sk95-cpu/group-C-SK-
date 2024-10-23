@@ -1,8 +1,8 @@
 h1{
-    background-color: maroon;
-    color:white;
+    background-color: yellow;
+    color: blue;
 }
 
 p{
-    color:green;
-}
+    background-color: yellow
+    color: black;
